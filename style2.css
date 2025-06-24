@@ -22,9 +22,9 @@ table {
 
 td, th {
   border: 1px solid #e208a133;
-  text-align: left;
+  text-align: center;
   padding: 8px;
-  font-size: 20px;
+  font-size: 80px;
 }
 
 tr:nth-child(even) {
@@ -43,7 +43,4 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: red;
 }
- 
-
-
  
