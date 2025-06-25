@@ -38,9 +38,24 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-style: groove;
 }
 
 a:hover, a:active {
+  background-color: red;
+}
+button{
+    background-color: hotpink;
+  color: rgb(4, 6, 19);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: groove;
+
+}
+
+button:hover, button:active {
   background-color: red;
 }
  
